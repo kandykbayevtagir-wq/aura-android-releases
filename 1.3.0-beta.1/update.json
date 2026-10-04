@@ -1,0 +1,11 @@
+{
+  "formatVersion": 1,
+  "packageName": "com.aura.personalsound",
+  "versionCode": 5,
+  "versionName": "1.3.0-beta.1",
+  "minSdk": 26,
+  "apkUrl": "https://raw.githubusercontent.com/kandykbayevtagir-wq/aura-android-releases/codex/flow-preview/1.3.0-beta.1/AURA.apk",
+  "sha256": "0dbe0214cd045637cc96ab4af2497bfa92e58c51a6dae803d2f9edb8191bebc3",
+  "sizeBytes": 5478032,
+  "releaseNotes": "Тестовая AURA 1.3 FLOW: нативный интерфейс AURA Liquid, переработанные плеер, библиотека, Studio и настройки. Flow экспериментален: точность анализа и проверки на физическом телефоне пока не прошли критерии стабильного релиза. Публикация в GitHub Releases ожидает одобрения владельца. Android 8.0+; постоянная подпись сохранена. После миграции Room3 возврат к 1.2 не поддерживается; следующие обновления должны иметь versionCode≥6."
+}
